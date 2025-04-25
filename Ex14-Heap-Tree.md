@@ -12,11 +12,13 @@ To write a C function to delete an element in a Heap Tree.
 6. Call heapify() to restore the heap property for each node. 
 7. End 
 ## Program:
-
+```
+/*
 Program to delete an element in a Heap Tree
-# Developed by: Alan Samuel Vedanayagam
-# RegisterNumber: 212223040012
-
+Developed by: Alan Samuel Vedanayagam
+RegisterNumber: 212223040012 
+*/
+```
 ```
 void deleteRoot(int array[], int num) 
 { 
