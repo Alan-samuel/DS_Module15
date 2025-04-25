@@ -15,7 +15,6 @@ To write a C function to perform post order traversal of a binary tree.
 ## Program:
 ```
 /*
-Program to delete three elements from the filled circular queue
 Developed by: Alan Samuel Vedanayagam
 RegisterNumber: 212223040012
 */
