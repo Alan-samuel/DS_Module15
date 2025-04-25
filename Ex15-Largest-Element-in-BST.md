@@ -11,13 +11,11 @@ To Write a c program to find the largest value in a Binary Search Tree.
 
 
 ## Program:
-
-Program to find and display the priority of the operator in the given Postfix expression
 ```
 /*
-Program to insert the elements in an AVL Tree
-Developed by: 
-RegisterNumber:  
+Program to find and display the priority of the operator in the given Postfix expression
+Developed by: Alan Samuel Vedanayagam
+RegisterNumber: 212223040012 
 */
 ```
 ```
