@@ -16,7 +16,6 @@ To write a C function to insert the elements in the binary search tree
 ## Program:
 ```
 /*
-Program to delete three elements from the filled circular queue
 Developed by: Alan Samuel Vedanayagam
 RegisterNumber: 212223040012
 */
